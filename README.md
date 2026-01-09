@@ -1,2 +1,2 @@
-# note
+# Note
 ~group project
